@@ -1,0 +1,50 @@
+<annotation>
+	<folder>test_own</folder>
+	<filename>IMG_20190716_224915_HHT.jpg</filename>
+	<path>/home/miguel/repositorios/Deep_car/models/object_detection/data/images/test_own/IMG_20190716_224915_HHT.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Limit 40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>1396</ymin>
+			<xmax>672</xmax>
+			<ymax>1914</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Limit 25</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1053</xmin>
+			<ymin>1283</ymin>
+			<xmax>1578</xmax>
+			<ymax>1952</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Green</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2128</xmin>
+			<ymin>1321</ymin>
+			<xmax>2641</xmax>
+			<ymax>1952</ymax>
+		</bndbox>
+	</object>
+</annotation>
