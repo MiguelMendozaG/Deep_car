@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test_own</folder>
+	<filename>IMG_20190716_221220.jpg</filename>
+	<path>/home/miguel/repositorios/Deep_car/models/object_detection/data/images/test_own/IMG_20190716_221220.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Limit 25</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>1583</ymin>
+			<xmax>953</xmax>
+			<ymax>2296</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1816</xmin>
+			<ymin>1533</ymin>
+			<xmax>2378</xmax>
+			<ymax>2227</ymax>
+		</bndbox>
+	</object>
+</annotation>
