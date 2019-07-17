@@ -1,13 +1,13 @@
 <annotation>
-	<folder>test_own</folder>
-	<filename>IMG_20190716_221240.jpg</filename>
-	<path>/home/miguel/repositorios/Deep_car/models/object_detection/data/images/test_own/IMG_20190716_221240.jpg</path>
+	<folder>processed</folder>
+	<filename>IMG_20190716_224916.jpg</filename>
+	<path>/home/miguel/repositorios/Deep_car/models/object_detection/data/images/test_own/processed/IMG_20190716_224916.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>3120</width>
-		<height>4160</height>
+		<width>640</width>
+		<height>480</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,22 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>72</xmin>
-			<ymin>1458</ymin>
-			<xmax>610</xmax>
-			<ymax>2083</ymax>
+			<xmin>48</xmin>
+			<ymin>100</ymin>
+			<xmax>136</xmax>
+			<ymax>205</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Stop</name>
+		<name>Limit 25</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1122</xmin>
-			<ymin>1352</ymin>
-			<xmax>1603</xmax>
-			<ymax>1839</ymax>
+			<xmin>216</xmin>
+			<ymin>79</ymin>
+			<xmax>321</xmax>
+			<ymax>210</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2047</xmin>
-			<ymin>1289</ymin>
-			<xmax>2566</xmax>
-			<ymax>1989</ymax>
+			<xmin>439</xmin>
+			<ymin>80</ymin>
+			<xmax>540</xmax>
+			<ymax>210</ymax>
 		</bndbox>
 	</object>
 </annotation>
