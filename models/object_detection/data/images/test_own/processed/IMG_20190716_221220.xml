@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Limit 25</name>
+		<name>Speed Limit 25</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -24,15 +24,15 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Red</name>
+		<name>Red Traffic Light</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>370</xmin>
-			<ymin>122</ymin>
-			<xmax>485</xmax>
-			<ymax>270</ymax>
+			<xmin>372</xmin>
+			<ymin>128</ymin>
+			<xmax>488</xmax>
+			<ymax>267</ymax>
 		</bndbox>
 	</object>
 </annotation>
