@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Stop</name>
+		<name>Stop Sign</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -24,19 +24,19 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Red</name>
+		<name>Red Traffic Light</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>258</xmin>
-			<ymin>179</ymin>
+			<ymin>180</ymin>
 			<xmax>328</xmax>
-			<ymax>272</ymax>
+			<ymax>273</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Green</name>
+		<name>Green Traffic Light</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

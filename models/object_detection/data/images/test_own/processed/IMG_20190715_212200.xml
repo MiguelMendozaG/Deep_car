@@ -1,7 +1,7 @@
 <annotation>
-	<folder>processed</folder>
+	<folder>train</folder>
 	<filename>IMG_20190715_212200.jpg</filename>
-	<path>/home/miguel/repositorios/Deep_car/models/object_detection/data/images/train_own/processed/IMG_20190715_212200.jpg</path>
+	<path>/home/miguel/repositorios/Deep_car/models/object_detection/data/images/train/IMG_20190715_212200.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Red</name>
+		<name>Red Traffic Light</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Limit 40</name>
+		<name>Speed Limit 40</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

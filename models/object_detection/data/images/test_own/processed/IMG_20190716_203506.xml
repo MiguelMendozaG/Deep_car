@@ -12,19 +12,19 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Stop</name>
+		<name>Stop Sign</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>167</xmin>
-			<ymin>241</ymin>
-			<xmax>241</xmax>
-			<ymax>317</ymax>
+			<xmin>170</xmin>
+			<ymin>245</ymin>
+			<xmax>240</xmax>
+			<ymax>313</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Limit 40</name>
+		<name>Speed Limit 40</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>birme</folder>
+	<folder>processed</folder>
 	<filename>IMG_20190716_202341.jpg</filename>
-	<path>/home/miguel/Downloads/birme/IMG_20190716_202341.jpg</path>
+	<path>/home/miguel/repositorios/Deep_car/models/object_detection/data/images/train_own/processed/IMG_20190716_202341.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,39 +12,39 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Limit 25</name>
+		<name>Speed Limit 25</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>28</xmin>
+			<xmin>32</xmin>
 			<ymin>110</ymin>
 			<xmax>186</xmax>
 			<ymax>280</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Green</name>
+		<name>Green Traffic Light</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>278</xmin>
+			<xmin>276</xmin>
 			<ymin>81</ymin>
-			<xmax>375</xmax>
+			<xmax>377</xmax>
 			<ymax>211</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Stop</name>
+		<name>Stop Sign</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>437</xmin>
-			<ymin>61</ymin>
-			<xmax>507</xmax>
-			<ymax>135</ymax>
+			<xmin>433</xmin>
+			<ymin>59</ymin>
+			<xmax>511</xmax>
+			<ymax>139</ymax>
 		</bndbox>
 	</object>
 </annotation>
